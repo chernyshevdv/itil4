@@ -25,4 +25,4 @@ The SVS is designed to combat silos within organization.
 # Glossary
 
 * <dt><a name="practice">Practice</a><dt><dd>is a set of organizational resources designed for performing work or accomplishing an objective.</dd>
-* <dt><a name="opportunity">Opportunity</a></dt> <dd>represents options or possibilities to add value to stakeholders or otherwise improve the organization. A part of [SVS](#the-service-value-system-svs)</dd?
+* <dt><a name="opportunity">Opportunity</a></dt> <dd>represents options or possibilities to add value to stakeholders or otherwise improve the organization. It is a part of [SVS](#the-service-value-system-svs)</dd>
