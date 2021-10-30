@@ -18,7 +18,7 @@ Elements of SVS:
 * [Guiding principles](#guiding-principles)
 * Governance
 * [Service value chain (SVC)](#service-value-chain)
-* [Practices](#practice)
+* [Practices](#practices)
 
 The SVS is designed to combat silos within organization.
 
@@ -36,12 +36,27 @@ These are ITIL guiding principles:
 
 ### Service Value Chain
 
+![image](https://user-images.githubusercontent.com/1935211/139556050-030f912a-27a9-4069-b049-7552c8d98169.png)
+
 * Plan
 * Improve
 * Engage
 * Design & transition
 * Obtain/build
 * Deliver & support
+
+### Pactices
+
+Four dimensions of service management:
+* People and organization
+* Information & technology
+* Partners & suppliers
+* Value streams & processes
+
+ITIL4 SVS enumerates 34 practices broken down into 3 sections:
+* 14 [general management practices](#general-mgmt-practices)
+* 17 [service management practices](#service-mgmt-practices)
+* 3 [technical management practices](#tech-mgmt-practices)
 
 # Glossary
 
@@ -51,3 +66,6 @@ These are ITIL guiding principles:
 * <dt>Outcome</dt><dd>is a result for a stakeholder enabled by one or more outputs</dd>
 * <dt><a name="demand">Demand</dt><dd>is the need or desire for products and services that originates from internal or external consumers. It is a part of SVS</dd>
 * <dt><a name="value">Value</dt><dd>is the outcome of SVS</dd>
+* <dt><a name="general-mgmt-practices">General management practices</a></dt><dd>are adapted and adopted for service management from business management</dd>
+* <dt><a name="service-mgmt-practices">Service management practices</a></dt><dd>originated and developed in service management and ITIL</dd>
+* <dt><a name="tech-mgmt-practices">Technical management practices</a></dt><dd>originated in technical management and have been adapted for service management</dd>
