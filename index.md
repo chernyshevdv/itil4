@@ -7,7 +7,7 @@ Let's start with foundation: glossary, importan ideas, and so on.
 Elements of SVS:
 
 * [Opportunity](#opportunity), [demand](#demand), [value](#value)
-* Guiding principles
+* [Guiding principles](#guiding-principles)
 * Governance
 * Service value chain (SVC)
 * [Practices](#practice)
@@ -21,6 +21,18 @@ The SVS is designed to combat silos within organization.
 * Poor decision making
 * Hidden agendas and increase in unhealthy organizational politics
 * Lack of clarity about value streams, interfaces and handoff points
+
+### Guiding principles
+
+These are ITIL guiding principles: 
+
+* Focus on value
+* Start where you are
+* Progress iteratively with feedback
+* Collaborate and promote visibility
+* Think and work holistically
+* Keep it simple and practical
+* Optimize and automate
 
 # Glossary
 
