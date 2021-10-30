@@ -2,18 +2,6 @@
 
 Let's start with foundation: glossary, importan ideas, and so on.
 
-## The Service Value System (SVS)
-
-Elements of SVS:
-
-* [Opportunity](#opportunity), [demand](#demand), [value](#value)
-* [Guiding principles](#guiding-principles)
-* Governance
-* Service value chain (SVC)
-* [Practices](#practice)
-
-The SVS is designed to combat silos within organization.
-
 ### Symptoms of siloed approach
 
 * Inability to act quickly or take advantage of opportunities
@@ -21,6 +9,18 @@ The SVS is designed to combat silos within organization.
 * Poor decision making
 * Hidden agendas and increase in unhealthy organizational politics
 * Lack of clarity about value streams, interfaces and handoff points
+
+## The Service Value System (SVS)
+
+Elements of SVS:
+
+* [Opportunity](#opportunity), [demand](#demand), [value](#value)
+* [Guiding principles](#guiding-principles)
+* Governance
+* [Service value chain (SVC)](#service-value-chain)
+* [Practices](#practice)
+
+The SVS is designed to combat silos within organization.
 
 ### Guiding principles
 
@@ -33,6 +33,15 @@ These are ITIL guiding principles:
 * Think and work holistically
 * Keep it simple and practical
 * Optimize and automate
+
+### Service Value Chain
+
+* Plan
+* Improve
+* Engage
+* Design & transition
+* Obtain/build
+* Deliver & support
 
 # Glossary
 
