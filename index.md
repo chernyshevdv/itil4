@@ -6,7 +6,7 @@ Let's start with foundation: glossary, importan ideas, and so on.
 
 Elements of SVS:
 
-* [Opportunity](#opportunity), [demand](#demand), value
+* [Opportunity](#opportunity), [demand](#demand), [value](#value)
 * Guiding principles
 * Governance
 * Service value chain (SVC)
@@ -27,3 +27,4 @@ The SVS is designed to combat silos within organization.
 * <dt><a name="practice">Practice</a><dt><dd>is a set of organizational resources designed for performing work or accomplishing an objective.</dd>
 * <dt><a name="opportunity">Opportunity</a></dt> <dd>represents options or possibilities to add value to stakeholders or otherwise improve the organization. It is a part of SVS</dd>
 * <dt><a name="demand">Demand</dt><dd>is the need or desire for products and services that originates from internal or external consumers. It is a part of SVS</dd>
+* <dt><a name="value">Value</dt><dd>is the outcome of SVS</dd>
