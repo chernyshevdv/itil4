@@ -2,6 +2,8 @@
 
 Let's start with foundation: glossary, importan ideas, and so on.
 
+Siloed approach is the main evil, against which the SVS (and ITIL4 based on it) is keen to fight.
+
 ### Symptoms of siloed approach
 
 * Inability to act quickly or take advantage of opportunities
