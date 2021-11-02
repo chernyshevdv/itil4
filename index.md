@@ -57,7 +57,7 @@ Four dimensions of service management:
 * Partners & suppliers
 * Value streams & processes
 
-ITIL4 SVS enumerates 34 practices broken down into 3 sections:
+ITIL4 SVS enumerates 35 practices broken down into 3 sections:
 * 15 [general management practices](#general-management-practices)
 * 17 [service management practices](#service-management-practices)
 * 3 [technical management practices](#technical-management-practices)
