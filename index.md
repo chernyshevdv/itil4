@@ -58,9 +58,9 @@ Four dimensions of service management:
 * Value streams & processes
 
 ITIL4 SVS enumerates 34 practices broken down into 3 sections:
-* 15 [general management practices](#general-mgmt-practices)
-* 17 [service management practices](#service-mgmt-practices)
-* 3 [technical management practices](#tech-mgmt-practices)
+* 15 [general management practices](#general-management-practices)
+* 17 [service management practices](#service-management-practices)
+* 3 [technical management practices](#tech-management-practices)
 
 ## General management practices
 
