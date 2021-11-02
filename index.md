@@ -108,6 +108,6 @@ ITIL4 SVS enumerates 34 practices broken down into 3 sections:
 * <dt>Outcome</dt><dd>is a result for a stakeholder enabled by one or more outputs</dd>
 * <dt><a name="demand">Demand</dt><dd>is the need or desire for products and services that originates from internal or external consumers. It is a part of SVS</dd>
 * <dt><a name="value">Value</dt><dd>is the outcome of SVS</dd>
-* <dt><a name="general-mgmt-practices">General management practices</a></dt><dd>are adapted and adopted for service management from business management</dd>
-* <dt><a name="service-mgmt-practices">Service management practices</a></dt><dd>originated and developed in service management and ITIL</dd>
+* <dt>General management practices</dt><dd>are adapted and adopted for service management from business management</dd>
+* <dt>Service management practices</dt><dd>originated and developed in service management and ITIL</dd>
 * <dt><a name="tech-mgmt-practices">Technical management practices</a></dt><dd>originated in technical management and have been adapted for service management</dd>
