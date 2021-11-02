@@ -60,7 +60,7 @@ Four dimensions of service management:
 ITIL4 SVS enumerates 34 practices broken down into 3 sections:
 * 15 [general management practices](#general-management-practices)
 * 17 [service management practices](#service-management-practices)
-* 3 [technical management practices](#tech-management-practices)
+* 3 [technical management practices](#technical-management-practices)
 
 ## General management practices
 
@@ -99,6 +99,12 @@ ITIL4 SVS enumerates 34 practices broken down into 3 sections:
 15. Service level management
 16. Service request management
 17. Service validation and testing 
+
+## Technical management practices
+
+1. Deployment management
+2. Infrastructure platform & management
+3. Software development & management
 
 # Glossary
 
