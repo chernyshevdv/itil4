@@ -28,13 +28,13 @@ The SVS is designed to combat silos within organization.
 
 These are ITIL guiding principles: 
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+1. Focus on value
+2. Start where you are
+3. Progress iteratively with feedback
+4. Collaborate and promote visibility
+5. Think and work holistically
+6. Keep it simple and practical
+7. Optimize and automate
 
 ### Service Value Chain
 
