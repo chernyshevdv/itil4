@@ -94,7 +94,11 @@ ITIL4 SVS enumerates 34 practices broken down into 3 sections:
 10. Service catalog management
 11. Service configuration management
 12. Service continuity management
-13. ...
+13. Service design
+14. The service desk
+15. Service level management
+16. Service request management
+17. Service validation and testing 
 
 # Glossary
 
