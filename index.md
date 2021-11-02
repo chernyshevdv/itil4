@@ -106,6 +106,10 @@ ITIL4 SVS enumerates 35 practices broken down into 3 sections:
 2. Infrastructure platform & management
 3. Software development & management
 
+# Qualification scheme
+
+![ITIL4 qualification scheme](https://user-images.githubusercontent.com/1935211/139837453-2d910f6a-48b8-4fd6-8424-dc56c63d084f.png)
+
 # Glossary
 
 * <dt><a name="practice">Practice</a><dt><dd>is a set of organizational resources designed for performing work or accomplishing an objective.</dd>
