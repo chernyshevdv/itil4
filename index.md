@@ -23,6 +23,7 @@ Elements of SVS:
 * Governance
 * [Service value chain (SVC)](#service-value-chain)
 * [Practices](#practices)
+* Continual improvement
 
 The SVS is designed to combat silos within organization.
 
