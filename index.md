@@ -14,6 +14,8 @@ Siloed approach is the main evil, against which the SVS (and ITIL4 based on it) 
 
 ## The Service Value System (SVS)
 
+![image](https://user-images.githubusercontent.com/1935211/140299025-c30162a9-3e75-447c-9559-ee7f63fd431a.png)
+
 Elements of SVS:
 
 * [Opportunity](#opportunity), [demand](#demand), [value](#value)
@@ -38,7 +40,8 @@ These are ITIL guiding principles:
 
 ### Service Value Chain
 
-![image](https://user-images.githubusercontent.com/1935211/139556050-030f912a-27a9-4069-b049-7552c8d98169.png)
+![SVC](https://user-images.githubusercontent.com/1935211/140299249-0624c162-46e6-442c-8c16-4d69ccc216fb.png)
+
 
 * Plan
 * Improve
