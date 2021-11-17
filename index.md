@@ -51,15 +51,9 @@ These are ITIL guiding principles:
 * Obtain/build
 * Deliver & support
 
-# Pactices
+## Pactices
 
-## Overview
-
-Four dimensions of service management:
-* People and organization
-* Information & technology
-* Partners & suppliers
-* Value streams & processes
+### Overview
 
 ITIL4 SVS enumerates 35 practices broken down into 3 sections:
 * 15 [general management practices](#general-management-practices)
@@ -86,6 +80,15 @@ ITIL4 SVS enumerates 35 practices broken down into 3 sections:
 |  | 16. Service request management |  |
 |  | 17. Service validation and testing |  |
 ---
+
+## Four dimensions of service management
+
+![Screenshot 2021-11-17 at 08 22 16](https://user-images.githubusercontent.com/1935211/142139836-2561565b-af45-457a-b9d6-7c0453131d84.png)
+
+* People and organization
+* Information & technology
+* Partners & suppliers
+* Value streams & processes
 
 # Qualification scheme
 
