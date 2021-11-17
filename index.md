@@ -66,49 +66,26 @@ ITIL4 SVS enumerates 35 practices broken down into 3 sections:
 * 17 [service management practices](#service-management-practices)
 * 3 [technical management practices](#technical-management-practices)
 
-## General management practices
-
-1. Continual improvement
-2. Architecture management
-3. Information security management
-4. Knowledge management
-5. Measurement and reporting
-6. Organisational change management
-7. Portfolio management
-8. Project management
-9. Relationship management
-10. Risk management
-11. Service financial management
-12. Strategy managemnt
-13. Supplier management
-14. Service integration and management (SIAM)
-15. Workforce and talent management 
-
-## Service management practices
-
-1. Availability management
-2. Business analysis
-3. Capacity & performance management
-4. Change enablement
-5. Incident management
-6. IT asset management
-7. Monitoring and event management
-8. Problem management
-9. Release management
-10. Service catalog management
-11. Service configuration management
-12. Service continuity management
-13. Service design
-14. The service desk
-15. Service level management
-16. Service request management
-17. Service validation and testing 
-
-## Technical management practices
-
-1. Deployment management
-2. Infrastructure platform & management
-3. Software development & management
+| General management practices | Service management practices | Technical management |
+| ---------------------------- | ---------------------------- | -------------------- |
+| 1. Continual improvement            | 1. Availability management | 1. Deployment management |
+| 2. Architecture management          | 2. Business analysis       | 2. Infrastructure platform & management |
+| 3. Information security management  | 3. Capacity & performance management | 3. Software development & management
+| 4. Knowledge management             | 4. Change enablement
+| 5. Measurement and reporting        | 5. Incident management
+| 6. Organisational change management | 6. IT asset management
+| 7. Portfolio management             | 7. Monitoring and event management
+| 8. Project management               | 8. Problem management
+| 9. Relationship management          | 9. Release management
+| 10. Risk management                 | 10. Service catalog management
+| 11. Service financial management    | 11. Service configuration management
+| 12. Strategy managemnt              | 12. Service continuity management
+| 13. Supplier management             | 13. Service design
+| 14. Service integration and management (SIAM) | 14. The service desk
+| 15. Workforce and talent management | 15. Service level management
+|  | 16. Service request management |  |
+|  | 17. Service validation and testing |  |
+---
 
 # Qualification scheme
 
